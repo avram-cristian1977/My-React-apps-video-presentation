@@ -1,0 +1,9 @@
+A Voting System 
+
+	This is an app that can offer you a voting system. The experience starts when you must have an account to vote and therefore you got to fill the authentication form. When submitting your data, the app creates for you an authentication account and also a user profile in Firebase. (based of the firebase auth localId that becomes the user id). The user profile page (dynamic routed based of the user id) shows your data and some aditional information (if you already voted or, if its tha case, that you are old enought to vote).After voting, a simple grafic reacts to your vote and expose you the current voting situation (every new voting user votes in the context of the updated voting situation). Voting buttons becomes disabed in UI but also the "hasVoted" user's object property changes in database. The app offers you the chance to contact the support team by emailing them. The application survives "refresh" thanks to the localStorage item that its created and managed with Redux. The logout action removes that item from the localStorage and user is signed out.
+
+full source code :
+
+https://github.com/avram-cristian1977/React-A-Voting-Sysyem
+
+Thank you for your attention!
