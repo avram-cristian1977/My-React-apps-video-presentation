@@ -7,7 +7,7 @@ I create two endpoints with Node Express, one for the devs and one for the tasks
 
 
 
-GitGub : https://github.com/avram-cristian1977/React-Hexart-devs-task-manager
+GitGub : https://github.com/avram-cristian1977/React-Hexart-devs-tasks-manager
 
 My Web Resume : www.avram-cristian.ro
 
