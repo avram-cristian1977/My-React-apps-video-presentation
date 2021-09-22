@@ -1,0 +1,13 @@
+X-mas Organizer
+
+Winter is coming...X-mas included. This app can help you to organize you gifting plans by storing for you the X-mas surprizes for your family and friends.
+You can make a budget for eachother, you can change the gift status (found status, bought status or sent status) therefore you will track your plan better!
+The app will always show you the remaining time until Christmas by visiting homepage.
+I used React, redux (toolkit), firebase (auth and storing), react-elastic-carousel, EmailJS, Corel, etc.
+
+full source code :
+
+https://github.com/avram-cristian1977/X-mas-Organizer
+
+Thank you for your attention!
+
