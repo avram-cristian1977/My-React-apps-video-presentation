@@ -1,0 +1,16 @@
+
+
+Ownlette is an application which can teach you to cook omelette. After you create yourself an account, you can visit the kitchen, where you can find many types of ingredients. You can choose anything you want but pay attention to the ratio or ingredients type. For example, you cannot bake an omelette without selecting at least one egg. The app will give you a little warn if you want to combine two types of meat or two types of vegetable. Quantity is very important and the app will give you some helping tips. After selecting ingredients you will start to bake it. There's a timer attached to the gas cooker so you should consider where to stop baking it. After you stoped teh gas, the conclusion will include if your omelette is crude or overcooked. Or perfect.:)
+Number of kcal is also shown and you can give a recipe a title and save it in your Recipe Book which where you can anytime see it.
+I used React, Redux toolkit (auth, localStorage, localId, items managing), routing, authentiction, pagination, email-js, firebase (auth, firestore), etc.
+
+Full source code :
+
+https://github.com/avram-cristian1977/Ownlette
+
+My personal website :
+
+www.avram-cristian.ro
+
+
+Thank you and...bon appetit!
